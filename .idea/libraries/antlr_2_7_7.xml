@@ -19,6 +19,8 @@
       <root url="jar://$PROJECT_DIR$/src/lk/ijse/hostel/lib/required/hibernate-core-5.6.5.Final.jar!/" />
     </CLASSES>
     <JAVADOC />
-    <SOURCES />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ideaLibSources/hibernate-core-5.6.5.Final-sources.jar!/" />
+    </SOURCES>
   </library>
 </component>
