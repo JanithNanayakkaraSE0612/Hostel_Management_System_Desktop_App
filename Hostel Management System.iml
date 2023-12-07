@@ -35,5 +35,9 @@
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="library" name="javafx-swt" level="project" />
+    <orderEntry type="library" name="javafx-base-21.0.1-linux" level="project" />
+    <orderEntry type="library" name="jfoenix-9.0.10" level="project" />
+    <orderEntry type="library" name="com.jfoenix:jfoenix:9.0.9" level="project" />
   </component>
 </module>
